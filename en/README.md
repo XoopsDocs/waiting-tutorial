@@ -14,7 +14,7 @@
 
 This module is for .....
 
-![image001.png](en/assets/image001.png)
+![image001.png](assets/image001.png)
 *Figure 1: Main view of the xLanguage Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
