@@ -12,7 +12,9 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module offers you an extensible waiting contents block for your XOOPS Website.
+
+By installing this module and adding proper plug-ins, you as webmaster can approve any item of any modules waiting for approval, all from just one view.
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the xLanguage Module (Admin side)*
