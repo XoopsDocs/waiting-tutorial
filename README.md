@@ -1,8 +1,8 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
-# Module xLanguage
-#### for XOOPS 2.5.7
+# Module Waiting
+#### for XOOPS 2.5.8
       
 ![logoModule.png](en/assets/logoModule.png)
             
@@ -12,10 +12,10 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module offers you an extensible waiting contents block into your XOOPS.
 
 ![image001.png](en/assets/image001.png)
-*Figure 1: Main view of the xLanguage Module (Admin side)*
+*Figure 1: Main view of the Waiting Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
