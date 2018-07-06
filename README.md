@@ -5,19 +5,19 @@
 ## Module xLanguage
 
 # Module Waiting
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
       
-![logoModule.png](en/assets/logoModule.png)
+![](en/assets/logoModule.png)
             
 ### User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ### Module Purpose
 
 This module offers you an extensible waiting contents block into your XOOPS.
 
-![image001.png](en/assets/image001.png)
+![](en/assets/image001.png)
 *Figure 1: Main view of the Waiting Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
